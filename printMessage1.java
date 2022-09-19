@@ -5,7 +5,7 @@ public class printMessage1 {
     public static void main(String[] args) {
         System.out.println("aaa");
         System.out.println("bbb");
-        System.out.println("ccc unknown");
+        System.out.println("ccc conflict");
         System.out.println("ddd");
 
         int[] arr = new int[] {2, 3, -1, 1, 0};
